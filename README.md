@@ -4,11 +4,6 @@ A classic Brick Breaker arcade game built with **Python** and **Object-Oriented 
 
 ---
 
-## 📸 Demo
-
-> *Add a gameplay screenshot or GIF here*
-
----
 
 ## 🚀 Features
 
